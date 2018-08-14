@@ -3,8 +3,11 @@ Use our app to simply check your health.
 
 
 If you have any Suggestions or comments on our application, please contact us:
+
 Email address: sudao1382095959@126.com
+
 QQ: 3315603830
+
 Phone number: 1514088921
 
 Color blindness is divided into total color blindness and partial color blindness (red color blindness, green color blindness, blue yellow color blindness, etc.).
